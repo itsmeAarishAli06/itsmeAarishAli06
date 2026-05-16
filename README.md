@@ -4,10 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aarish%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3A86FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;MERN+%7C+PHP+%7C+MySQL+Expert+%F0%9F%94%A5;Open+for+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3A86FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer+💻;Building+Scalable+Solutions+🚀;PHP+%7C+MySQL+%7C+Full+Stack+Developer+🔥;Open+for+Opportunities+🌟" 
+    alt="Typing SVG" 
+  />
+</a>
 
 <br/>
-
 <!-- Profile Badges -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-3A86FF?style=for-the-badge" />
