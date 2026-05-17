@@ -88,7 +88,7 @@ currently_learning:
 - ✅ Dynamic Pricing & Availability
 
 **Status:** 🟢 Live & Production Ready
-
+[🔗 View Portfolio](https://hostellify.com)
 </td>
 <td width="50%">
 
@@ -110,7 +110,7 @@ currently_learning:
 
 **Status:** 🟢 Deployed & Live
 
-[🔗 View Portfolio](https://github.com/itsmeAarishAli06)
+[🔗 View Portfolio](https://aarishali.infinityfreeapp.com/index.php)
 
 </td>
 </tr>
