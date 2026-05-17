@@ -88,7 +88,7 @@ currently_learning:
 - ✅ Dynamic Pricing & Availability
 
 **Status:** 🟢 Live & Production Ready
-[🔗 View Portfolio](https://hostellify.com)
+[🔗 View Live:](https://hostellify.com)
 </td>
 <td width="50%">
 
