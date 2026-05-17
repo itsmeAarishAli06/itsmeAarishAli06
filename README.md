@@ -6,12 +6,13 @@
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3A86FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer+💻;Building+Scalable+Solutions+🚀;PHP+%7C+MySQL+%7C+Full+Stack+Developer+🔥;Open+for+Opportunities+🌟" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3A86FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer+💻;Building+Scalable+Solutions+🚀;PHP+%7C+MySQL+%7C+JavaScript+Expert+🔥;Available+for+Opportunities+🌟" 
     alt="Typing SVG" 
   />
 </a>
 
 <br/>
+
 <!-- Profile Badges -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-3A86FF?style=for-the-badge" />
@@ -43,12 +44,12 @@ roll_number: 24SW58
 
 fields_of_interests:
   - Full Stack Web Development
-  - Database Architecture
-  - UI/UX Design
+  - Database Architecture & Design
+  - UI/UX Development
   - RESTful API Development
   
 technical_background:
-  - Building Production-Ready Web Apps
+  - Production-Ready Web Applications
   - Multi-Role Authentication Systems
   - Database Design & Optimization
   - Responsive Frontend Development
@@ -88,7 +89,9 @@ currently_learning:
 - ✅ Dynamic Pricing & Availability
 
 **Status:** 🟢 Live & Production Ready
-[🔗 View Live:](https://hostellify.com)
+
+[🔗 View Live](https://hostellify.com)
+
 </td>
 <td width="50%">
 
@@ -155,25 +158,57 @@ currently_learning:
 
 <div align="center">
   
+<!-- GitHub Stats Card -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsmeaarishali06&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3A86FF&icon_color=3A86FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
+<!-- GitHub Streak Stats -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeaarishali06&theme=react&hide_border=true&background=0D1117&stroke=3A86FF&ring=3A86FF&fire=FF6C37&currStreakLabel=3A86FF" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeaarishali06&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3A86FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+</div>
 
+<br/>
+
+<div align="center">
+
+<!-- Top Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeaarishali06&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3A86FF&text_color=FFFFFF&langs_count=8&hide=html" alt="Top Languages" />
+
+<!-- Contribution Graph -->
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeaarishali06&custom_title=Contribution%20Graph&bg_color=0D1117&color=3A86FF&line=3A86FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 📈 Coding Activity & Stats
+
+<div align="center">
+
+<!-- Coding Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmeaarishali06&theme=github_dark" alt="Coding Activity" />
+
+<br/><br/>
+
+<!-- Activity Stats Cards -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmeaarishali06&theme=github_dark" alt="Repos per Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmeaarishali06&theme=github_dark" alt="Most Commit Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsmeaarishali06&theme=github_dark&utcOffset=5" alt="Productive Time" />
+
+</div>
+
+---
+
+## 🏆 Achievements & GitHub Trophies
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsmeaarishali06&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Issues,Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+## 🎓 Education & Experience
 
 <table>
 <tr>
@@ -214,7 +249,7 @@ Roll: 24SW58
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ```javascript
-const valueProposition = {
+const aarishAli = {
     technicalSkills: {
         frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap 5", "React.js"],
         backend: ["PHP", "MySQL", "RESTful APIs", "Laravel"],
@@ -246,6 +281,30 @@ const valueProposition = {
     ]
 };
 ```
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/itsmeAarishAli06/itsmeAarishAli06/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🎯 Learning | 🔨 Building | 📚 Reading |
+|:---:|:---:|:---:|
+| React.js Ecosystem | HostelHub Features | Clean Code Principles |
+| Laravel Framework | Portfolio Enhancements | Database Optimization |
+| Cloud Deployment | API Integrations | Web Security Practices |
+
+</div>
 
 ---
 
@@ -284,32 +343,6 @@ const valueProposition = {
 - 💻 Freelance Web Projects
 - 🤝 Open Source Contributions
 - 🎯 Remote Opportunities
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmeaarishali06&theme=react&hide_border=true&bg_color=0D1117&title_color=3A86FF&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity" alt="Coding Activity" />
-
-</div>
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🎯 Learning | 🔨 Building | 📚 Reading |
-|:---:|:---:|:---:|
-| React.js Ecosystem | HostelHub Features | Clean Code Principles |
-| Laravel Framework | Portfolio Enhancements | Database Optimization |
-| Cloud Deployment | API Integrations | Web Security Practices |
 
 </div>
 
