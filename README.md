@@ -69,10 +69,13 @@ currently_learning:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏨 HostelHub - Hostel Management System
+
 **Multi-Role Web Application**
+
+<br/>
 
 **Tech Stack:**
 - 🔧 PHP, MySQL, JavaScript
@@ -80,23 +83,30 @@ currently_learning:
 - 📧 PHPMailer Integration
 - 🔐 Secure Authentication
 
-**Features:**
+<br/>
+
+**Key Features:**
 - ✅ Student/Owner/Admin Dashboards
 - ✅ Real-time Room Booking System
 - ✅ OTP-based Password Recovery
 - ✅ Email Notifications
-- ✅ Complaint Management
+- ✅ Complaint Management System
 - ✅ Dynamic Pricing & Availability
+
+<br/>
 
 **Status:** 🟢 Live & Production Ready
 
-[🔗 View Live](https://hostellify.com)
+**[🔗 View Live Demo](https://hostellify.com)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💼 Professional Portfolio
+
 **Personal Brand Website**
+
+<br/>
 
 **Tech Stack:**
 - 🎨 HTML5, CSS3, JavaScript
@@ -104,16 +114,21 @@ currently_learning:
 - 🌙 Dark/Light Theme Toggle
 - 🎯 3D Card Effects
 
-**Features:**
-- ✅ Project Showcase
-- ✅ Interactive UI Elements
+<br/>
+
+**Key Features:**
+- ✅ Interactive Project Showcase
+- ✅ Smooth Scroll Animations
 - ✅ Custom Cursor Effects
-- ✅ Smooth Animations
-- ✅ Contact Integration
+- ✅ Dynamic UI Elements
+- ✅ Contact Form Integration
+- ✅ Mobile-First Responsive Design
+
+<br/>
 
 **Status:** 🟢 Deployed & Live
 
-[🔗 View Portfolio](https://aarishali.infinityfreeapp.com/index.php)
+**[🔗 View Portfolio](https://aarishali.infinityfreeapp.com/index.php)**
 
 </td>
 </tr>
@@ -184,8 +199,8 @@ currently_learning:
 
 <div align="center">
 
-<!-- Coding Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmeaarishali06&theme=github_dark" alt="Coding Activity" />
+<!-- Coding Stats Profile Details -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmeaarishali06&theme=github_dark" alt="Coding Activity" />
 
 <br/><br/>
 
@@ -198,7 +213,7 @@ currently_learning:
 
 ---
 
-## 🏆 Achievements & GitHub Trophies
+## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
 
@@ -208,78 +223,97 @@ currently_learning:
 
 ---
 
-## 🎓 Education & Experience
+## 🎓 Education & Expertise
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
 ### 🎓 Education
+
 **Software Engineering**  
 University of Sindh  
-Roll: 24SW58  
+Roll Number: 24SW58  
 *Currently Pursuing*
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-### 💻 Key Projects
-**3+** Production Apps  
-**HostelHub** - Live System  
+### 💻 Projects
+
+**3+ Production Apps**  
+**HostelHub** - Live  
 **Portfolio** - Deployed  
-**Multiple** Mini-Projects
+**Multiple** Mini-Projects  
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 ### 🌟 Expertise
+
 **Full Stack** Development  
 **PHP/MySQL** Architecture  
-**Responsive** Design  
-**Authentication** Systems
+**Responsive** UI/UX Design  
+**Secure** Authentication  
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 💡 What I Bring to the Table
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ```javascript
 const aarishAli = {
+    // Technical Expertise
     technicalSkills: {
         frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap 5", "React.js"],
         backend: ["PHP", "MySQL", "RESTful APIs", "Laravel"],
-        tools: ["Git", "VS Code", "Postman", "Database Design"],
-        practices: ["OOP", "MVC Architecture", "Security Best Practices"]
+        tools: ["Git", "VS Code", "Postman", "Figma", "Database Design"],
+        practices: ["OOP", "MVC Architecture", "Security Best Practices", "Responsive Design"]
     },
     
+    // Professional Qualities
     softSkills: [
         "Problem Solving & Critical Thinking",
         "Clean Code & Documentation",
         "Responsive Design Principles",
-        "Team Collaboration",
-        "Quick Learning & Adaptability"
+        "Team Collaboration & Communication",
+        "Quick Learning & Adaptability",
+        "Attention to Detail"
     ],
     
+    // Key Accomplishments
     achievements: [
         "Built multi-role authentication system from scratch",
-        "Implemented OTP-based security features",
-        "Designed & optimized database schemas",
-        "Created responsive, cross-browser compatible UIs",
-        "Deployed production-ready web applications"
+        "Implemented OTP-based security features with email verification",
+        "Designed & optimized complex database schemas",
+        "Created responsive, cross-browser compatible user interfaces",
+        "Deployed production-ready web applications",
+        "Integrated third-party APIs and payment gateways"
     ],
     
+    // Future Aspirations
     currentGoals: [
         "Contribute to impactful open-source projects",
         "Master React.js & modern JavaScript frameworks",
         "Build scalable, cloud-native applications",
-        "Collaborate with experienced development teams"
+        "Collaborate with experienced development teams",
+        "Expand expertise in DevOps and CI/CD pipelines"
     ]
 };
+
+// Always learning, always building! 🚀
+console.log("Let's create something amazing together!");
 ```
 
 ---
@@ -294,21 +328,22 @@ const aarishAli = {
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Learning Path
 
 <div align="center">
 
-| 🎯 Learning | 🔨 Building | 📚 Reading |
-|:---:|:---:|:---:|
-| React.js Ecosystem | HostelHub Features | Clean Code Principles |
-| Laravel Framework | Portfolio Enhancements | Database Optimization |
-| Cloud Deployment | API Integrations | Web Security Practices |
+| 🎯 Currently Learning | 🔨 Building | 📚 Reading | 🎨 Exploring |
+|:---:|:---:|:---:|:---:|
+| React.js Ecosystem | HostelHub Features | Clean Code Principles | UI/UX Trends |
+| Laravel Framework | Portfolio Enhancements | Database Optimization | Modern CSS |
+| Cloud Deployment | API Integrations | Web Security | Design Patterns |
+| TypeScript | Open Source Contributions | Software Architecture | Performance Optimization |
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -339,10 +374,39 @@ const aarishAli = {
 <br/>
 
 **💼 Available for:**
-- 🚀 Full-Stack Development Roles
-- 💻 Freelance Web Projects
-- 🤝 Open Source Contributions
-- 🎯 Remote Opportunities
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🚀**  
+Full-Stack  
+Development Roles
+
+</td>
+<td align="center" width="25%">
+
+**💻**  
+Freelance  
+Web Projects
+
+</td>
+<td align="center" width="25%">
+
+**🤝**  
+Open Source  
+Contributions
+
+</td>
+<td align="center" width="25%">
+
+**🎯**  
+Remote  
+Opportunities
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -358,15 +422,45 @@ const aarishAli = {
 
 ---
 
+## ⚡ Fun Facts About Me
+
 <div align="center">
 
-### ⚡ Fun Fact
+<table>
+<tr>
+<td align="center" width="33%">
 
-**I transform ☕ coffee into 💻 code and 🐛 bugs into ✨ features!**
+**☕ Coffee Enthusiast**  
+I transform coffee into code  
+and bugs into features!
+
+</td>
+<td align="center" width="33%">
+
+**🌙 Night Owl Coder**  
+My best code is written  
+when the world is asleep
+
+</td>
+<td align="center" width="33%">
+
+**🎯 Problem Solver**  
+I don't just fix bugs,  
+I prevent them!
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🌟 "Building tomorrow's solutions, one commit at a time"
 
@@ -377,6 +471,15 @@ const aarishAli = {
 <br/>
 
 ### ⭐ If you find my work interesting, consider giving a star to my repositories!
+
+<br/>
+
+**📊 Profile Stats Summary**
+
+![](https://img.shields.io/badge/Total%20Commits-20+-3A86FF?style=for-the-badge)
+![](https://img.shields.io/badge/Projects-10+-00C49A?style=for-the-badge)
+![](https://img.shields.io/badge/Continuous_Learning-2%2B%20Years-8338EC?style=for-the-badge)
+![](https://img.shields.io/badge/Always%20Learning-Yes-FF6C37?style=for-the-badge)
 
 <br/>
 
