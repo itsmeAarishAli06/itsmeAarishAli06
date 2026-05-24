@@ -234,7 +234,7 @@ currently_learning:
 ### 🎓 Education
 
 **Software Engineering**  
-University of Sindh  
+Mehran University Of Engineering And Technology  
 Roll Number: 24SW58  
 *Currently Pursuing*
 
