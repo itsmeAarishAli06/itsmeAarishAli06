@@ -39,7 +39,7 @@
 name: Aarish Ali
 located_in: Hyderabad, Sindh, Pakistan
 current_role: Software Engineering Student
-education: University of Sindh
+education: Mehran University Of Engineering
 roll_number: 24SW58
 
 fields_of_interests:
